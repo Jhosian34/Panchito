@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: #b6906a;
+    font-size: 45px;
+}
+#d1{
+    background-color: #dfb992;
+    width: 350px;
+    height: 45px;
+    border-radius: 100px 100px 40px 40px;
+    border-bottom: 8px solid #b6906a;
+    margin: 0px auto;
+}
+#d2{
+    background-color: brown;
+    width: 385px;
+    height: 38px;
+    border-radius: 50px;
+    margin: 0px auto;
+}
+#d3{
+    background-color:#dfb992;
+    width: 350px;
+    height: 45px;
+    border-radius: 40px 40px 100px 100px;
+    border-top: 8px solid #b6906a;
+    margin: 0px auto;
+}
